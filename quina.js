@@ -586,7 +586,164 @@ function slicing(){
             TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
             + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
             armazenn4 + virgula + sep + armazenn5 + parenth + sep;
-            }            
+            }          
+        //------------------------------------------------------------------------    16
+        if (i == 564){ // +5
+          armazenConc = armazen2ArrayTudo.slice(560, i);// -4                   
+          }          
+          if (i == 569){ // +5
+              armazenDia = armazen2ArrayTudo.slice(567, i); // -2    
+              }      
+          if (i == 572){ // +3
+              armazenMes = armazen2ArrayTudo.slice(570, i); // -2    
+              }       
+          if (i == 577){ //+5
+              armazenAno = armazen2ArrayTudo.slice(573, i); // -4    
+              }      
+          if (i == 582){  // +5
+              armazenn1 = armazen2ArrayTudo.slice(580, i);     //-2
+              }      
+          if (i == 585){ // +3
+              armazenn2 = armazen2ArrayTudo.slice(583, i);    //-2 
+              }  
+          if (i == 588){ // +3
+              armazenn3 = armazen2ArrayTudo.slice(586, i);    //-2  
+              }     
+          if (i == 591){ // +3
+              armazenn4 = armazen2ArrayTudo.slice(589, i);     //-2
+              }    
+          if (i == 594){ // +3
+              armazenn5 = armazen2ArrayTudo.slice(592, i);     //-2
+              TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+              + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+              armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+              }    
+               //------------------------------------------------------------------------    17
+        if (i == 599){ // +5
+          armazenConc = armazen2ArrayTudo.slice(594, i);// -4                   
+          }          
+          if (i == 604){ // +5
+              armazenDia = armazen2ArrayTudo.slice(602, i); // -2    
+              }      
+          if (i == 607){ // +3
+              armazenMes = armazen2ArrayTudo.slice(605, i); // -2    
+              }       
+          if (i == 612){ //+5
+              armazenAno = armazen2ArrayTudo.slice(608, i); // -4    
+              }      
+          if (i == 617){  // +5
+              armazenn1 = armazen2ArrayTudo.slice(615, i);     //-2
+              }      
+          if (i == 620){ // +3
+              armazenn2 = armazen2ArrayTudo.slice(618, i);    //-2 
+              }  
+          if (i == 623){ // +3
+              armazenn3 = armazen2ArrayTudo.slice(621, i);    //-2  
+              }     
+          if (i == 626){ // +3
+              armazenn4 = armazen2ArrayTudo.slice(624, i);     //-2
+              }    
+          if (i == 629){ // +3
+              armazenn5 = armazen2ArrayTudo.slice(627, i);     //-2
+              TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+              + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+              armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+              }    
+       //------------------------------------------------------------------------    18
+       if (i == 634){ // +5
+        armazenConc = armazen2ArrayTudo.slice(630, i);// -4                   
+        }          
+        if (i == 639){ // +5
+            armazenDia = armazen2ArrayTudo.slice(637, i); // -2    
+            }      
+        if (i == 642){ // +3
+            armazenMes = armazen2ArrayTudo.slice(640, i); // -2    
+            }       
+        if (i == 647){ //+5
+            armazenAno = armazen2ArrayTudo.slice(643, i); // -4    
+            }      
+        if (i == 652){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(650, i);     //-2
+            }      
+        if (i == 655){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(653, i);    //-2 
+            }  
+        if (i == 658){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(656, i);    //-2  
+            }     
+        if (i == 661){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(659, i);     //-2
+            }    
+        if (i == 664){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(662, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+            
+       //------------------------------------------------------------------------    19
+       if (i == 669){ // +5
+        armazenConc = armazen2ArrayTudo.slice(665, i);// -4                   
+        }          
+        if (i == 674){ // +5
+            armazenDia = armazen2ArrayTudo.slice(672, i); // -2    
+            }      
+        if (i == 677){ // +3
+            armazenMes = armazen2ArrayTudo.slice(675, i); // -2    
+            }       
+        if (i == 682){ //+5
+            armazenAno = armazen2ArrayTudo.slice(678, i); // -4    
+            }      
+        if (i == 687){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(685, i);     //-2
+            }      
+        if (i == 690){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(688, i);    //-2 
+            }  
+        if (i == 693){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(691, i);    //-2  
+            }     
+        if (i == 696){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(694, i);     //-2
+            }    
+        if (i == 699){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(697, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+    //------------------------------------------------------------------------    20
+    if (i == 704){ // +5
+      armazenConc = armazen2ArrayTudo.slice(700, i);// -4                   
+      }          
+      if (i == 709){ // +5
+          armazenDia = armazen2ArrayTudo.slice(707, i); // -2    
+          }      
+      if (i == 712){ // +3
+          armazenMes = armazen2ArrayTudo.slice(710, i); // -2    
+          }       
+      if (i == 717){ //+5
+          armazenAno = armazen2ArrayTudo.slice(713, i); // -4    
+          }      
+      if (i == 822){  // +5
+          armazenn1 = armazen2ArrayTudo.slice(820, i);     //-2
+          }      
+      if (i == 825){ // +3
+          armazenn2 = armazen2ArrayTudo.slice(823, i);    //-2 
+          }  
+      if (i == 828){ // +3
+          armazenn3 = armazen2ArrayTudo.slice(826, i);    //-2  
+          }     
+      if (i == 831){ // +3
+          armazenn4 = armazen2ArrayTudo.slice(829, i);     //-2
+          }    
+      if (i == 834){ // +3
+          armazenn5 = armazen2ArrayTudo.slice(832, i);     //-2
+          TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+          + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+          armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+          }            
+                   
       }                
           document.getElementById("quinatxt").innerHTML = TUDO;
 }
@@ -1176,6 +1333,163 @@ function slicingB(){
            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
            }    
+        //------------------------------------------------------------------------    16
+        if (i == 564){ // +5
+          armazenConc = armazen2ArrayTudo.slice(560, i);// -4                   
+          }          
+          if (i == 569){ // +5
+              armazenDia = armazen2ArrayTudo.slice(567, i); // -2    
+              }      
+          if (i == 572){ // +3
+              armazenMes = armazen2ArrayTudo.slice(570, i); // -2    
+              }       
+          if (i == 577){ //+5
+              armazenAno = armazen2ArrayTudo.slice(573, i); // -4    
+              }      
+          if (i == 582){  // +5
+              armazenn1 = armazen2ArrayTudo.slice(580, i);     //-2
+              }      
+          if (i == 585){ // +3
+              armazenn2 = armazen2ArrayTudo.slice(583, i);    //-2 
+              }  
+          if (i == 588){ // +3
+              armazenn3 = armazen2ArrayTudo.slice(586, i);    //-2  
+              }     
+          if (i == 591){ // +3
+              armazenn4 = armazen2ArrayTudo.slice(589, i);     //-2
+              }    
+          if (i == 594){ // +3
+              armazenn5 = armazen2ArrayTudo.slice(592, i);     //-2
+              TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+              + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+              armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+              }    
+               //------------------------------------------------------------------------    17
+        if (i == 599){ // +5
+          armazenConc = armazen2ArrayTudo.slice(594, i);// -4                   
+          }          
+          if (i == 604){ // +5
+              armazenDia = armazen2ArrayTudo.slice(602, i); // -2    
+              }      
+          if (i == 607){ // +3
+              armazenMes = armazen2ArrayTudo.slice(605, i); // -2    
+              }       
+          if (i == 612){ //+5
+              armazenAno = armazen2ArrayTudo.slice(608, i); // -4    
+              }      
+          if (i == 617){  // +5
+              armazenn1 = armazen2ArrayTudo.slice(615, i);     //-2
+              }      
+          if (i == 620){ // +3
+              armazenn2 = armazen2ArrayTudo.slice(618, i);    //-2 
+              }  
+          if (i == 623){ // +3
+              armazenn3 = armazen2ArrayTudo.slice(621, i);    //-2  
+              }     
+          if (i == 626){ // +3
+              armazenn4 = armazen2ArrayTudo.slice(624, i);     //-2
+              }    
+          if (i == 629){ // +3
+              armazenn5 = armazen2ArrayTudo.slice(627, i);     //-2
+              TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+              + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+              armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+              }    
+       //------------------------------------------------------------------------    18
+       if (i == 634){ // +5
+        armazenConc = armazen2ArrayTudo.slice(630, i);// -4                   
+        }          
+        if (i == 639){ // +5
+            armazenDia = armazen2ArrayTudo.slice(637, i); // -2    
+            }      
+        if (i == 642){ // +3
+            armazenMes = armazen2ArrayTudo.slice(640, i); // -2    
+            }       
+        if (i == 647){ //+5
+            armazenAno = armazen2ArrayTudo.slice(643, i); // -4    
+            }      
+        if (i == 652){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(650, i);     //-2
+            }      
+        if (i == 655){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(653, i);    //-2 
+            }  
+        if (i == 658){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(656, i);    //-2  
+            }     
+        if (i == 661){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(659, i);     //-2
+            }    
+        if (i == 664){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(662, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+            
+       //------------------------------------------------------------------------    19
+       if (i == 669){ // +5
+        armazenConc = armazen2ArrayTudo.slice(665, i);// -4                   
+        }          
+        if (i == 674){ // +5
+            armazenDia = armazen2ArrayTudo.slice(672, i); // -2    
+            }      
+        if (i == 677){ // +3
+            armazenMes = armazen2ArrayTudo.slice(675, i); // -2    
+            }       
+        if (i == 682){ //+5
+            armazenAno = armazen2ArrayTudo.slice(678, i); // -4    
+            }      
+        if (i == 687){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(685, i);     //-2
+            }      
+        if (i == 690){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(688, i);    //-2 
+            }  
+        if (i == 693){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(691, i);    //-2  
+            }     
+        if (i == 696){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(694, i);     //-2
+            }    
+        if (i == 699){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(697, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+    //------------------------------------------------------------------------    20
+    if (i == 704){ // +5
+      armazenConc = armazen2ArrayTudo.slice(700, i);// -4                   
+      }          
+      if (i == 709){ // +5
+          armazenDia = armazen2ArrayTudo.slice(707, i); // -2    
+          }      
+      if (i == 712){ // +3
+          armazenMes = armazen2ArrayTudo.slice(710, i); // -2    
+          }       
+      if (i == 717){ //+5
+          armazenAno = armazen2ArrayTudo.slice(713, i); // -4    
+          }      
+      if (i == 822){  // +5
+          armazenn1 = armazen2ArrayTudo.slice(820, i);     //-2
+          }      
+      if (i == 825){ // +3
+          armazenn2 = armazen2ArrayTudo.slice(823, i);    //-2 
+          }  
+      if (i == 828){ // +3
+          armazenn3 = armazen2ArrayTudo.slice(826, i);    //-2  
+          }     
+      if (i == 831){ // +3
+          armazenn4 = armazen2ArrayTudo.slice(829, i);     //-2
+          }    
+      if (i == 834){ // +3
+          armazenn5 = armazen2ArrayTudo.slice(832, i);     //-2
+          TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+          + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+          armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+          }            
+                
     }            
              
         document.getElementById("quinatxtB").innerHTML = TUDO;
@@ -1767,6 +2081,164 @@ function slicingC(){
            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
            }    
+           //------------------------------------------------------------------------    16
+      if (i == 564){ // +5
+        armazenConc = armazen2ArrayTudo.slice(560, i);// -4                   
+        }          
+        if (i == 569){ // +5
+            armazenDia = armazen2ArrayTudo.slice(567, i); // -2    
+            }      
+        if (i == 572){ // +3
+            armazenMes = armazen2ArrayTudo.slice(570, i); // -2    
+            }       
+        if (i == 577){ //+5
+            armazenAno = armazen2ArrayTudo.slice(573, i); // -4    
+            }      
+        if (i == 582){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(580, i);     //-2
+            }      
+        if (i == 585){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(583, i);    //-2 
+            }  
+        if (i == 588){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(586, i);    //-2  
+            }     
+        if (i == 591){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(589, i);     //-2
+            }    
+        if (i == 594){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(592, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+             //------------------------------------------------------------------------    17
+      if (i == 599){ // +5
+        armazenConc = armazen2ArrayTudo.slice(594, i);// -4                   
+        }          
+        if (i == 604){ // +5
+            armazenDia = armazen2ArrayTudo.slice(602, i); // -2    
+            }      
+        if (i == 607){ // +3
+            armazenMes = armazen2ArrayTudo.slice(605, i); // -2    
+            }       
+        if (i == 612){ //+5
+            armazenAno = armazen2ArrayTudo.slice(608, i); // -4    
+            }      
+        if (i == 617){  // +5
+            armazenn1 = armazen2ArrayTudo.slice(615, i);     //-2
+            }      
+        if (i == 620){ // +3
+            armazenn2 = armazen2ArrayTudo.slice(618, i);    //-2 
+            }  
+        if (i == 623){ // +3
+            armazenn3 = armazen2ArrayTudo.slice(621, i);    //-2  
+            }     
+        if (i == 626){ // +3
+            armazenn4 = armazen2ArrayTudo.slice(624, i);     //-2
+            }    
+        if (i == 629){ // +3
+            armazenn5 = armazen2ArrayTudo.slice(627, i);     //-2
+            TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+            + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+            armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+            }    
+     //------------------------------------------------------------------------    18
+     if (i == 634){ // +5
+      armazenConc = armazen2ArrayTudo.slice(630, i);// -4                   
+      }          
+      if (i == 639){ // +5
+          armazenDia = armazen2ArrayTudo.slice(637, i); // -2    
+          }      
+      if (i == 642){ // +3
+          armazenMes = armazen2ArrayTudo.slice(640, i); // -2    
+          }       
+      if (i == 647){ //+5
+          armazenAno = armazen2ArrayTudo.slice(643, i); // -4    
+          }      
+      if (i == 652){  // +5
+          armazenn1 = armazen2ArrayTudo.slice(650, i);     //-2
+          }      
+      if (i == 655){ // +3
+          armazenn2 = armazen2ArrayTudo.slice(653, i);    //-2 
+          }  
+      if (i == 658){ // +3
+          armazenn3 = armazen2ArrayTudo.slice(656, i);    //-2  
+          }     
+      if (i == 661){ // +3
+          armazenn4 = armazen2ArrayTudo.slice(659, i);     //-2
+          }    
+      if (i == 664){ // +3
+          armazenn5 = armazen2ArrayTudo.slice(662, i);     //-2
+          TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+          + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+          armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+          }    
+          
+     //------------------------------------------------------------------------    19
+     if (i == 669){ // +5
+      armazenConc = armazen2ArrayTudo.slice(665, i);// -4                   
+      }          
+      if (i == 674){ // +5
+          armazenDia = armazen2ArrayTudo.slice(672, i); // -2    
+          }      
+      if (i == 677){ // +3
+          armazenMes = armazen2ArrayTudo.slice(675, i); // -2    
+          }       
+      if (i == 682){ //+5
+          armazenAno = armazen2ArrayTudo.slice(678, i); // -4    
+          }      
+      if (i == 687){  // +5
+          armazenn1 = armazen2ArrayTudo.slice(685, i);     //-2
+          }      
+      if (i == 690){ // +3
+          armazenn2 = armazen2ArrayTudo.slice(688, i);    //-2 
+          }  
+      if (i == 693){ // +3
+          armazenn3 = armazen2ArrayTudo.slice(691, i);    //-2  
+          }     
+      if (i == 696){ // +3
+          armazenn4 = armazen2ArrayTudo.slice(694, i);     //-2
+          }    
+      if (i == 699){ // +3
+          armazenn5 = armazen2ArrayTudo.slice(697, i);     //-2
+          TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+          + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+          armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+          }    
+  //------------------------------------------------------------------------    20
+  if (i == 704){ // +5
+    armazenConc = armazen2ArrayTudo.slice(700, i);// -4                   
+    }          
+    if (i == 709){ // +5
+        armazenDia = armazen2ArrayTudo.slice(707, i); // -2    
+        }      
+    if (i == 712){ // +3
+        armazenMes = armazen2ArrayTudo.slice(710, i); // -2    
+        }       
+    if (i == 717){ //+5
+        armazenAno = armazen2ArrayTudo.slice(713, i); // -4    
+        }      
+    if (i == 822){  // +5
+        armazenn1 = armazen2ArrayTudo.slice(820, i);     //-2
+        }      
+    if (i == 825){ // +3
+        armazenn2 = armazen2ArrayTudo.slice(823, i);    //-2 
+        }  
+    if (i == 828){ // +3
+        armazenn3 = armazen2ArrayTudo.slice(826, i);    //-2  
+        }     
+    if (i == 831){ // +3
+        armazenn4 = armazen2ArrayTudo.slice(829, i);     //-2
+        }    
+    if (i == 834){ // +3
+        armazenn5 = armazen2ArrayTudo.slice(832, i);     //-2
+        TUDO = TUDO + quinaone + armazenConc + virgula + sep + armazenDia + virgula + sep + armazenMes + virgula + sep + armazenAno
+        + virgula + sep + armazenn1 + virgula + sep + armazenn2 + virgula + sep + armazenn3 + virgula + sep +
+        armazenn4 + virgula + sep + armazenn5 + parenth + sep;
+        }            
+              
+          
     }            
              
         document.getElementById("quinatxtC").innerHTML = TUDO;
